@@ -1,0 +1,1 @@
+[![CircleCI](https://circleci.com/bb/kilwarcom/btcs-backend/tree/master.svg?style=svg&circle-token=7fab85cc53bc270585c61276e8c4ef7624f64a72)](https://circleci.com/bb/kilwarcom/btcs-backend/tree/master)
